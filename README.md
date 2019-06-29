@@ -38,8 +38,6 @@ The fields do not match the criteria
 
 #### HomeScreen
 
-![](images/4.jpg)
-
 The home screen is divided into 3 navbar items:
 -	Friends
 -	Dashboard
@@ -87,6 +85,7 @@ d.	Login if not already
 4.	When disconnected, the user can view the list of transactions and the dashboard list, that was already downloaded from before, and he will stay logged in if he already was before internet loss
 
 #### Notification service
+
 1.	The user can receive notifications within the app
 2.	The notifications are the same as the items on the dashboard of the app
 3.	The notifications work for all APKs, even 26+
@@ -103,8 +102,6 @@ d.	Login if not already
  
 #### Add Bill:
 
-![](images/10.jpg)
-
 1.	The user can add a description to his bill, which will be displayed on his dashboard.
 2.	The user must add an amount before proceeding into any other action (paid by, split by, done). If not, he will be displayed error messages asking him to enter an amount.
 3.	The user may directly select done by selecting the menu item (tick), if he wants to proceed with the default settings (paid by you and split equally).
@@ -113,16 +110,12 @@ d.	Login if not already
  
 #### Custom Payment:
 
-![](images/11.jpg)
-
 1.	The user can enter the amounts payed by each user.
 2.	If the user has entered a larger total value of the individual amounts and attempts to proceed, he will be displayed an error message asking him to reduce it by the extra amount entered. A similar message is shown if he enters a smaller value and attempts to proceed.
 3.	Once the right total amount is entered, the individual amounts are stored and assigned to the respective payers.
 4.	The button in addbill then displayes ‘custom’. In case the user has entered the entire amount for only 1 user, the button in addbill displays the name of that one user, instead of ‘custom’.
 
 #### Split Equally:
-
-![](images/12.jpg)
 
 1.	The user can select/deselect those who are supposed to be splitting the amount.
 2.	Upon selection/deselection, the amount per person is displayed in a textview.
