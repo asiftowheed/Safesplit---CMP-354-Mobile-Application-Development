@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Safe Split</string>
+    <string name="title_friends">friends</string>
+    <string name="title_add"></string>
+    <string name="title_dashboard">dashboard</string>
+    <string name="title_groups">groups</string>
+    <string name="title_me">me</string>
+    <string name="title_home">Homee</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="left_tab">You Owe</string>
+    <string name="center_tab">You are Owed</string>
+    <string name="right_tab">Total Balance</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- LOL -->
+    <string name="accsettingsbutton">Account Settings</string>
+    <string name="notisettingsbutton">Notification Settings</string>
+    <string name="passcodebutton">Passcode</string>
+    <string name="logoutbutton">Log Out</string>
+    <string name="addbillbutton">+</string>
+    <string name="addusertv">Add to bill:</string>
+    <string name="friendnametv" />
+    <string name="currency">AED</string>
+    <string name="paidby">Paid by</string>
+    <string name="paidbytv">you</string>
+    <string name="split">and split</string>
+    <string name="splittv">equally</string>
+
+    <string name="settle_up_button">Settle up</string>
+
+</resources>

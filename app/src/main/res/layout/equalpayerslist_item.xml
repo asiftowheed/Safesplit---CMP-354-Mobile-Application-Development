@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:stretchColumns="1,2,3,4,5,6,7,8,9,10,11,12">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/equalpayerslist_item"
+            android:layout_width="231dp"
+            android:layout_height="wrap_content"
+            android:layout_span="8"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp"
+            android:textColor="@color/stage8"
+            android:textSize="20sp" />
+
+        <!--
+        <EditText
+            android:id="@+id/exactamount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_span="1"
+            android:width="5dp"
+            android:ems="10"
+            android:hint="0.0"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/AEDsign"
+            android:layout_width="1dp"
+            android:layout_height="wrap_content"
+            android:text="AED" />
+-->
+    </TableRow>
+
+</TableLayout>

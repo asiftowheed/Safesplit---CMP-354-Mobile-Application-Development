@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#9ce5ff</color>
+    <color name="colorSecondary">#9ce5ff</color>
+    <color name="titlebackgroundcolor">#3232CD</color>
+    <color name="titletextcolor">#FFFF00</color>
+    <color name="stage1">#000</color>
+    <color name="stage2">#202020</color>
+    <color name="stage3">#404040</color>
+    <color name="stage4">#606060</color>
+    <color name="stage5">#808080</color>
+    <color name="stage6">#A0A0A0</color>
+    <color name="stage7">#C0C0C0</color>
+    <color name="stage8">#E0E0E0</color>
+    <color name="stage9">#FFFFFF</color>
+    <color name="bluestage1">#000099</color>
+    <color name="bluestage2">#0000CC</color>
+
+</resources>

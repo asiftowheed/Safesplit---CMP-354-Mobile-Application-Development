@@ -1,0 +1,21 @@
+<resources>
+    <style name="AppTheme">
+        <item name="android:background">@color/titlebackgroundcolor</item>
+    </style>
+
+    <style name="MyActionBar" parent="@style/Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:titleTextStyle">@style/MyTextTitle</item>
+    </style>
+    <style name="MyTextTitle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/colorSecondary</item>
+    </style>
+    
+    <style name="customTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
