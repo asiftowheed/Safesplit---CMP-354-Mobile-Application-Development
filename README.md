@@ -16,8 +16,6 @@ User is taken to the Sign in Activity
 
 #### Sign in Activity
 
-![](images/2.jpg)
-
 User can do the following:
 1.	Enter email and password to login
 2.	Have error messages come if either of
@@ -71,8 +69,6 @@ d.	Whenever you owe/owed to someone
 
 #### Profile NavItem
 
-![](images/7.jpg)
-
 1.	Here the user sees his name, and email-address
 2.	The user can change his email address and password, both of which will open dialogs allowing the user to change them
 3.	Once the user changes his details, the result is instant (his email-address changes in profile view)
@@ -80,8 +76,6 @@ d.	Whenever you owe/owed to someone
 5.	App copyright details are shown at the bottom of the view
  
 #### No internet connection service
-
-![](images/8.jpg)
 
 1.	When the user is using the app and the internet connection is gone, a permanent snackbar is shown at the bottom of the screen
 2.	The snackbar is removed when internet connection comes back
